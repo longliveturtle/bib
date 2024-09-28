@@ -7,3 +7,11 @@ year      = {2011},
 url       = {https://longliveturtle.github.io/water/p4.pdf},
 image     = {https://longliveturtle.github.io/water/p4.png},
 }
+
+@Book{p12,
+author    = {Michael Friendly and David Meyer},
+publisher = {CRC Press},
+title     = {Discrete data analysis with {R}},
+year      = {2016},
+url       = {https://t.me/self_sustaining_system/3},
+}
