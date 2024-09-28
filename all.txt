@@ -1,1 +1,9 @@
-
+@Book{p4,
+author    = {Jay L. Devore},
+publisher = {Cengage Learning},
+edition   = {8},
+title     = {Probability and statistics},
+year      = {2011},
+url       = {https://longliveturtle.github.io/water/p4.pdf},
+image     = {https://longliveturtle.github.io/water/p4.png},
+}
